@@ -3,6 +3,7 @@ violet
 indigo
 blue
 PInk
+Earthday is a day
 Grey
 green
 yellow
@@ -11,3 +12,4 @@ red
 add unicorn
 add Pony
 ####
+#
